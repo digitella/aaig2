@@ -1132,6 +1132,18 @@ a {
 .cid-s7HpjxbwkF .social-row .soc-item:hover .mbr-iconfont {
   color: #ffffff;
 }
+#custom-html-13 {
+  /* Type valid CSS here */
+}
+#custom-html-13 div {
+  padding: 80px 0;
+  color: #777;
+  text-align: center;
+}
+#custom-html-13 p {
+  font-size: 60px;
+  color: #777;
+}
 .cid-s7HpllFtJc {
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -1153,7 +1165,7 @@ a {
 .cid-s7HpDx1A9t {
   padding-top: 75px;
   padding-bottom: 75px;
-  background-color: #f3fbff;
+  background-color: #ffffff;
 }
 .cid-s7HpDx1A9t .mbr-text {
   color: #767676;
